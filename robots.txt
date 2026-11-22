@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ksaworks.github.io/portfolio_dados/sitemap.xml
